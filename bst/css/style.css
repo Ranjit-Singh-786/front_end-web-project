@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	background-color: pink;
+}
+
+form{
+	width: 455px;
+	padding-left: 100px;
+	padding-top: 8px;
+	
+}

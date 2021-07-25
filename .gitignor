@@ -1,0 +1,11 @@
+*.jpg
+*.png
+/image/
+/New folder/
+/bst/
+/bootstrap/
+/webfonts/
+/webfonts
+/bootstrap
+/image
+/New folder

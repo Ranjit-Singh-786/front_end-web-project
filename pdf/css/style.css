@@ -1,0 +1,57 @@
+body{
+	background-color:darkkhaki;
+}
+.main{
+	height:111px;
+	position:relative;
+	top:15px;
+	
+}
+.main h1{
+	color:blue;
+	font-size:44px;
+}
+.main p{
+	font-size:22px;
+	position:relative;
+	left:80px;
+	color:red;
+}
+.container{
+	font-size:18px;
+	
+}
+.container a{
+	color:blue;
+	text-decoration:none;
+	border-radius:3px;
+	position:center;
+}
+.container a:hover{
+	color:red;
+	background-color:#fff;
+}
+.extra h1{
+	color:blue;
+}
+.extra p{
+	font-weight:high;
+	font-size:21px;
+	color:solid black;
+}
+.btn{
+	color:blue;
+	text-decoration:none;
+	border-radius:3px;
+	float:right;
+	}
+.btn:hover{
+		color:red;
+	background-color:#fff;
+	}
+		
+
+
+
+
+
